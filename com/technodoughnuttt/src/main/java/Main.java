@@ -1,4 +1,4 @@
-package com.technodoughnuttt;
+package com.technodoughnuttt.src.main.java;
 
 public class Main {
 

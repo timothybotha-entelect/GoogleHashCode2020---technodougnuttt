@@ -1,4 +1,4 @@
-package com.technodoughnuttt.filesAccess;
+package com.technodoughnuttt.src.main.java.filesAccess;
 
 import java.io.BufferedReader;
 import java.io.FileOutputStream;
